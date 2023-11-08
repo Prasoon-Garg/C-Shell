@@ -1,4 +1,4 @@
-# Sequenshell
+# Cshell
 
 ## Run instructions
 
